@@ -1,2 +1,2 @@
 # gentle-springs-02503
-Hosting Django project
+Trying to Host a Django project using Heroku.
